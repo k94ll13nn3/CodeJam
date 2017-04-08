@@ -1,7 +1,7 @@
 ﻿module CodeJam
 
 open System
-open ProblemA
+open ProblemB
 
 /// Reads from STDIN until the input is null.
 let readInput =
